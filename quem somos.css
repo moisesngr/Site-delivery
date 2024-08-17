@@ -1,0 +1,58 @@
+img {position: relative;
+left: 775px;}
+
+#cadastro { font-family: "Kolker Brush", cursive;
+    font-weight: 400;
+   font-size: 60px;
+border: solid 4px #F1BEA1;
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 160px;
+left: 250px;
+}
+
+#contato {font-family: "Kolker Brush", cursive;
+    font-weight: 400;
+   font-size: 60px;
+border: solid 4px #F1BEA1;
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 257px;
+left: 500px;}
+
+#pedir {font-family: "Kolker Brush", cursive;
+    font-weight: 400;
+   font-size: 60px;
+border: solid 4px #F1BEA1;
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 357px;
+left: 1175px;}
+
+#carrinho {font-family: "Kolker Brush", cursive;
+    font-weight: 400;
+   font-size: 60px;
+border: solid 4px #F1BEA1;
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 454px;
+left: 1425px;}
+
+a {text-decoration: none;
+color: black;}
+
+#qm-somos {font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+font-size: 20px;
+text-align: center;
+position: relative;
+bottom: 300px;}

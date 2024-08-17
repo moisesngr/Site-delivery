@@ -1,0 +1,42 @@
+body { font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;}
+
+.h1 {position: relative;
+text-align: center;
+bottom: 260px;
+font-size: 65px;
+height: 0;}
+
+input {width: 450px;
+border: solid 2px;
+height: 25px;
+position: relative;}
+
+#h1-2 {border: solid 2px;
+width: 350px;
+padding: 25px;
+text-align: center;
+position: relative;
+left: 1475px;
+bottom: px;
+height: 50px;
+}
+
+#enviar {height: 0px;}
+
+a {text-decoration: none;
+    color: black;}
+
+h2 {position: relative;
+left: 270px;
+
+width: 500px;}
+
+#msg {  height: 300px;}
+
+#mensagem {position: relative;
+bottom: 500px;
+left: 1200px;
+height: 0px;}
+

@@ -1,0 +1,41 @@
+body { font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;}
+
+#cabeçalho {height: 275px;}
+
+.h1 {position: relative;
+    text-align: center;
+    bottom: 200px;
+    font-size: 65px;
+    height: 0;}
+
+    #items {width: 900px;
+    height: 600px;
+border: solid 4px;
+position: relative;
+left: 500px;
+bottom: 100px;}
+
+#total {position: relative;
+left: 700px;
+top: 525px;
+width: 0px;
+height: 0px;}
+
+a {text-decoration: none;
+    color: black;}
+    
+#h1-2 {height: 0px;
+}
+    
+#pedido {
+border: solid 2px;
+width: 300px;
+padding: 25px;
+text-align: center;
+position: relative;
+left: 1520px;   
+bottom: 55px;
+height: 35px;
+font-family: "Lemon", serif;}

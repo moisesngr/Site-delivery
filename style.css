@@ -1,0 +1,33 @@
+body { font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;}
+
+.h1 {position: relative;
+text-align: center;
+bottom: 260px;
+font-size: 65px;}
+
+input {width: 450px;
+border: solid 2px;
+height: 25px;
+position: relative;}
+
+#h1-2 {border: solid 2px;
+width: 350px;
+padding: 25px;
+text-align: center;
+position: relative;
+left: 1200px;
+bottom: 350px;
+}
+
+#mudar-cor {text-decoration: none;
+    color: black;
+    width: 0px;}
+
+h2 {position: relative;
+left: 270px;
+bottom: 75px;
+width: 450px;
+height: 75px;}
+

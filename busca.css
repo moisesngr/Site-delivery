@@ -1,0 +1,50 @@
+.h1 {position: relative;
+    text-align: center;
+    bottom: 260px;
+    font-size: 65px;
+    height: 0;}
+
+    #pesquisar {width: 500px;
+    height: 25px;
+    border: solid;
+    font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#pesquisar::placeholder {color: black;}
+
+#rechonchi {border: solid 4px;}
+#gordito {border: solid 4px;}
+#panza {border: solid 4px;}
+#estoma {border: solid 4px;}
+
+#comidas {position: relative;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 150px 150px 150px;
+left: 375px;
+gap: 175px;
+width: 500px;
+}
+
+a {text-decoration: none;
+color: black;}
+
+#h1-2 {border: solid 2px;
+    width: 350px;
+    padding: 25px;
+    text-align: center;
+    position: relative;
+    right: 200px;   
+    top: 500px;
+    height: 50px;
+    font-family: "Lemon", serif;
+    }
+
+    #enviar {height: 0px;
+    width: 0px;}
+
+.cmd { font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;}
+
+
